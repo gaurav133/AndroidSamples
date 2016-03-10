@@ -1,2 +1,2 @@
-# VolleySample
-Simple implementation of downloading images from server by using Volley.
+# AndroidSamples
+List of Android Samples to help in interviews.
